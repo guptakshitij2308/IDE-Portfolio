@@ -1,0 +1,253 @@
+{
+  "name": "Kshitij Gupta",
+  "bio": "Passionate about building high-quality software that solves real problems.",
+  "brief": "As a software engineer adept at harnessing data, I specialize in transforming intricate data insights into impactful, real-world solutions. My expertise spans full-stack development and data science, allowing me to innovate and drive forward-thinking projects. With a proven track record in leveraging data to enhance user experiences and streamline processes, I am dedicated to pushing the boundaries of technology to solve real-world problems efficiently and effectively.",
+  "photos": "../assets/MyPhoto.webp",
+  "contact": {
+    "email": "guptakshitij2308@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kshitij-gupta-362aa1227/",
+    "github": "https://github.com/guptakshitij2308",
+    "leetcode": "https://leetcode.com/u/guptakshitij/"
+  },
+  "skills": {
+    "Frontend": [
+      {
+        "name": "JavaScript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Angular",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "HTML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      }
+    ],
+    "Backend": [
+      {
+        "name": "Node",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "PHP",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      },
+      {
+        "name": "Java",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Flask",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+      },
+      {
+        "name": "Python",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Ruby",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+      }
+    ],
+    "DevOps": [
+      {
+        "name": "Docker",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      },
+      {
+        "name": "AWS",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      },
+      {
+        "name": "CI/CD",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+      },
+      {
+        "name": "Terraform",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+      }
+    ],
+    "Database": [
+      {
+        "name": "SQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      },
+      {
+        "name": "Redis",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      },
+      {
+        "name": "SQLite",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+      }
+    ],
+    "Tools": [
+      {
+        "name": "Git",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      },
+      {
+        "name": "Postman",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+      },
+      {
+        "name": "NPM",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+      },
+      {
+        "name": "Yarn",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"
+      },
+      {
+        "name": "Webpack",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "HackEx",
+      "description": "HackEx is a scalable online coding platform that supports remote code execution with custom inputs, syntax highlighting, code autocompletion, and real-time leaderboards. The platform is containerized for secure and isolated execution environments, ensuring robust performance during live contests.",
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Docker"
+      ]
+    },
+
+    {
+      "title": "DeepFlowShield",
+      "description": "A machine learning-based system for detecting and classifying DDoS attacks using deep neural networks and traffic pattern analysis.",
+      "technologies": ["Python", "TensorFlow", "Scikit-learn", "Pandas"],
+      "link": "https://github.com/guptakshitij2308/DeepFlowShield"
+    },
+    {
+      "title": "Connectify",
+      "description": "Connectify is a real-time group chat application that enables users to create and join chat rooms with unique IDs. Built with Spring Boot and React.js, it leverages WebSocket for instant messaging and MongoDB for message persistence. The application ensures seamless communication with features like room management and real-time message updates.",
+      "technologies": [
+        "React.js",
+        "Spring Boot",
+        "Spring WebSocket",
+        "MongoDB",
+        "Tailwind CSS",
+        "Vite",
+        "Docker"
+      ],
+      "link": "https://github.com/guptakshitij2308/Connectify"
+    },
+    {
+      "title": "Musicify",
+      "description": "A React Native music streaming app with login/signup, custom UI, and audio controls—built for seamless user experience on mobile devices.",
+      "technologies": ["React Native", "Expo", "TypeScript", "Redux"],
+      "link": "https://github.com/guptakshitij2308/musicify"
+    },
+    {
+      "title": "Destinations",
+      "description": "A travel exploration app offering curated trip plans, maps, and guides, integrating API data for real-time recommendations and itineraries.",
+      "technologies": ["React.js", "Node.js", "Express", "MongoDB", "PUG"],
+      "link": "https://github.com/guptakshitij2308/Destinations"
+    },
+    {
+      "title": "TrustSense: Trustworthy Detection of Depression from Social Media Texts",
+      "description": "TrustSense is a machine learning pipeline designed to detect signs of depression in social media posts. By leveraging natural language processing techniques and transformer-based models, the system classifies user-generated content into categories such as 'not depressed', 'moderately depressed', or 'severely depressed'. The project emphasizes trustworthy AI practices, ensuring transparency and reliability in mental health assessments derived from textual data.",
+      "technologies": [
+        "Python",
+        "Transformers (Hugging Face)",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "link": "https://github.com/guptakshitij2308/TrustSense-Trustworthy-Detection-of-Depression-from-Social-Media-Texts"
+    },
+    {
+      "title": "The Continental",
+      "description": "A full-stack booking system for premium stays, inspired by 'John Wick', with secure login, dynamic listings, and admin panel functionality.",
+      "technologies": ["React.js", "Node.js", "MongoDB", "JWT", "Tailwind CSS"],
+      "link": "https://github.com/guptakshitij2308/the-continental"
+    }
+  ],
+  "experience": {
+    "Tally_Solutions_Private_Limited": {
+      "role": "Software Engineer Intern",
+      "tech": ["React", "TypeScript", "Node.js", "MySQL"],
+      "duration": "Oct 2024 - Jan 2025",
+      "highlights": [
+        "Engineered a business intelligence dashboard for 5,000+ enterprise users",
+        "Increased decision-making speed by 40% using data-driven visualizations",
+        "Optimized API queries and reduced latency by 35%, enabling 3x more concurrent users",
+        "Collaborated across product and design to deliver impactful UI/UX at scale"
+      ]
+    },
+    "Flickmatch_Private_Limited": {
+      "role": "Software Dev Intern",
+      "tech": ["Java", "Spring Boot", "React.js", "AWS", "GitHub Actions"],
+      "duration": "Feb 2024 - Jul 2024",
+      "highlights": [
+        "Integrated Razorpay and Stripe gateways for secure high-volume transactions (1K+ daily)",
+        "Automated deployment workflows with CI/CD pipelines using GitHub Actions",
+        "Boosted frontend Lighthouse performance score from 65 → 92",
+        "Built real-time analytics dashboard that contributed to 25% revenue growth"
+      ]
+    },
+    "aican": {
+      "role": "Full Stack Intern",
+      "tech": ["MERN", "Nodemailer", "Cloudinary"],
+      "duration": "Oct 2023 - Feb 2024",
+      "highlights": [
+        "Developed IoT-enabled operations dashboard tailored for MSME use-cases",
+        "Reduced server response time by optimizing backend and database queries",
+        "Integrated email automation (Nodemailer) and secure media storage (Cloudinary)",
+        "Improved Google PageSpeed score and SEO metrics by 40%"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Integrated B.Tech + M.Tech in Information Technology",
+      "institution": "ABV-IIITM Gwalior",
+      "gpa": "8.15 / 10.0",
+      "graduation": "May 2026"
+    },
+    {
+      "degree": "Class 12 (ISC)",
+      "institution": "Lucknow Public School",
+      "gpa": "96.0%",
+      "graduation": "2020"
+    },
+    {
+      "degree": "Class 10 (ICSE)",
+      "institution": "Lucknow Public School",
+      "gpa": "96.2%",
+      "graduation": "2018"
+    }
+  ]
+}
